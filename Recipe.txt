@@ -4,6 +4,7 @@ Chicken
 Fish
 Pasta
 Jeera
+capsicum
 
 ginger 
 garlic
